@@ -1,6 +1,6 @@
 
 
-let variaavel = 10
+let variavel = 10
 
 variavel = 20
 
